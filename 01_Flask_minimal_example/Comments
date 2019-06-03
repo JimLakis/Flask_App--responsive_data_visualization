@@ -1,0 +1,5 @@
+May 2, 2019
+
+Example depicts using Python's Flask module to produce a simple single page browser displayed App.
+
+Employed are the Flask concepts of Templates, a Layout file, and Template Inheritance.
