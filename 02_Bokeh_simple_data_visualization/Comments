@@ -1,3 +1,5 @@
 May 19, 2019
 
-A simple example of utilizing Python's Bokeh module to display a line chart of static information.
+A simple example of utilizing Python's Bokeh module to display a line chart of static information in a browser.
+
+The chart in the browser is NOT responsive.
